@@ -26,5 +26,8 @@ https://pt.wikipedia.org/wiki/Sudoku
   ### modelo com números
   ![Sudoku](/images/sudoku.jpg)
 
+  https://github.com/digitalinnovationone/sudoku/tree/ui
+  https://github.com/digitalinnovationone/sudoku
+
   ### modelo de rascunho
   ![rascunho](/images/draft.gif)
